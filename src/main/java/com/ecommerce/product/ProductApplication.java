@@ -3,6 +3,9 @@ package com.ecommerce.product;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Product micro service
+ */
 @SpringBootApplication
 public class ProductApplication {
 
